@@ -1,0 +1,357 @@
+kernel_launch_uid = 1 
+gpu_sim_cycle = 35810
+gpu_sim_insn = 30330112
+gpu_ipc =     846.9733
+gpu_tot_sim_cycle = 35810
+gpu_tot_sim_insn = 30330112
+gpu_tot_ipc =     846.9733
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 4438
+gpu_stall_icnt2sh    = 14736
+gpu_total_sim_rate=393897
+
+Stall:90983	W0_Idle:63890	W0_Scoreboard:36830	W1:0	W2:0	W3:0	W4
+
+maxmrqlatency = 97 
+maxdqlatency = 0 
+maxmflatency = 653 
+averagemflatency = 160 
+max_icnt2mem_latency = 213 
+max_icnt2sh_latency = 35809 
+
+kernel_launch_uid = 1 
+gpu_sim_cycle = 3231
+gpu_sim_insn = 917752
+gpu_ipc =     284.0458
+gpu_tot_sim_cycle = 3231
+gpu_tot_sim_insn = 917752
+gpu_tot_ipc =     284.0458
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 0
+gpu_stall_icnt2sh    = 775
+gpu_total_sim_rate=305917
+
+Stall:0	W0_Idle:10768	W0_Scoreboard:6266	W1:259	W2:0	W3:0	W4:0	
+
+maxmrqlatency = 42 
+maxdqlatency = 0 
+maxmflatency = 214 
+averagemflatency = 117 
+max_icnt2mem_latency = 32 
+max_icnt2sh_latency = 3230 
+
+kernel_launch_uid = 2 
+gpu_sim_cycle = 3774
+gpu_sim_insn = 919120
+gpu_ipc =     243.5400
+gpu_tot_sim_cycle = 7005
+gpu_tot_sim_insn = 1836872
+gpu_tot_ipc =     262.2230
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 0
+gpu_stall_icnt2sh    = 1110
+gpu_total_sim_rate=262410
+
+Stall:0	W0_Idle:36558	W0_Scoreboard:21552	W1:1947	W2:0	W3:0	W4:
+
+maxmrqlatency = 42 
+maxdqlatency = 0 
+maxmflatency = 214 
+averagemflatency = 116 
+max_icnt2mem_latency = 32 
+max_icnt2sh_latency = 7004 
+
+kernel_launch_uid = 3 
+gpu_sim_cycle = 5020
+gpu_sim_insn = 927663
+gpu_ipc =     184.7934
+gpu_tot_sim_cycle = 12025
+gpu_tot_sim_insn = 2764535
+gpu_tot_ipc =     229.8990
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 0
+gpu_stall_icnt2sh    = 1605
+gpu_total_sim_rate=251321
+
+Stall:0	W0_Idle:69183	W0_Scoreboard:70282	W1:12108	W2:224	W3:0	
+
+maxmrqlatency = 42 
+maxdqlatency = 0 
+maxmflatency = 214 
+averagemflatency = 115 
+max_icnt2mem_latency = 32 
+max_icnt2sh_latency = 12024 
+
+kernel_launch_uid = 4 
+gpu_sim_cycle = 16139
+gpu_sim_insn = 1042952
+gpu_ipc =      64.6231
+gpu_tot_sim_cycle = 28164
+gpu_tot_sim_insn = 3807487
+gpu_tot_ipc =     135.1898
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 13287
+gpu_stall_icnt2sh    = 45988
+gpu_total_sim_rate=146441
+
+Stall:98484	W0_Idle:115361	W0_Scoreboard:246874	W1:102543	W2:16
+
+maxmrqlatency = 56 
+maxdqlatency = 0 
+maxmflatency = 943 
+averagemflatency = 279 
+max_icnt2mem_latency = 690 
+max_icnt2sh_latency = 28163 
+
+kernel_launch_uid = 5 
+gpu_sim_cycle = 155790
+gpu_sim_insn = 3041061
+gpu_ipc =      19.5203
+gpu_tot_sim_cycle = 183954
+gpu_tot_sim_insn = 6848548
+gpu_tot_ipc =      37.2297
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 191029
+gpu_stall_icnt2sh    = 862872
+gpu_total_sim_rate=36235
+
+Stall:3540644	W0_Idle:405924	W0_Scoreboard:388201	W1:274253	W2:
+
+maxmrqlatency = 115 
+maxdqlatency = 0 
+maxmflatency = 103246 
+averagemflatency = 353 
+max_icnt2mem_latency = 102977 
+max_icnt2sh_latency = 183953 
+
+kernel_launch_uid = 6 
+gpu_sim_cycle = 343437
+gpu_sim_insn = 6652043
+gpu_ipc =      19.3690
+gpu_tot_sim_cycle = 527391
+gpu_tot_sim_insn = 13500591
+gpu_tot_ipc =      25.5988
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 792935
+gpu_stall_icnt2sh    = 4228621
+gpu_total_sim_rate=21987
+
+Stall:12211797	W0_Idle:1036677	W0_Scoreboard:575635	W1:376079	W
+
+maxmrqlatency = 136 
+maxdqlatency = 0 
+maxmflatency = 286038 
+averagemflatency = 395 
+max_icnt2mem_latency = 285720 
+max_icnt2sh_latency = 527285 
+
+kernel_launch_uid = 7 
+gpu_sim_cycle = 61786
+gpu_sim_insn = 2007687
+gpu_ipc =      32.4942
+gpu_tot_sim_cycle = 589177
+gpu_tot_sim_insn = 15508278
+gpu_tot_ipc =      26.3219
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 1024869
+gpu_stall_icnt2sh    = 4977517
+gpu_total_sim_rate=22346
+
+Stall:13601315	W0_Idle:1049753	W0_Scoreboard:741774	W1:464651	W
+
+maxmrqlatency = 140 
+maxdqlatency = 0 
+maxmflatency = 286038 
+averagemflatency = 409 
+max_icnt2mem_latency = 285720 
+max_icnt2sh_latency = 587021 
+
+kernel_launch_uid = 8 
+gpu_sim_cycle = 3528
+gpu_sim_insn = 951309
+gpu_ipc =     269.6454
+gpu_tot_sim_cycle = 592705
+gpu_tot_sim_insn = 16459587
+gpu_tot_ipc =      27.7703
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 1026266
+gpu_stall_icnt2sh    = 5002158
+gpu_total_sim_rate=23547
+
+Stall:13601317	W0_Idle:1056583	W0_Scoreboard:780415	W1:484182	W
+
+maxmrqlatency = 140 
+maxdqlatency = 0 
+maxmflatency = 286038 
+averagemflatency = 408 
+max_icnt2mem_latency = 285720 
+max_icnt2sh_latency = 591924 
+
+kernel_launch_uid = 9 
+gpu_sim_cycle = 1112
+gpu_sim_insn = 917532
+gpu_ipc =     825.1187
+gpu_tot_sim_cycle = 593817
+gpu_tot_sim_insn = 17377119
+gpu_tot_ipc =      29.2634
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 1026266
+gpu_stall_icnt2sh    = 5002573
+gpu_total_sim_rate=24753
+
+Stall:13601317	W0_Idle:1058406	W0_Scoreboard:782784	W1:484213	W
+
+maxmrqlatency = 140 
+maxdqlatency = 0 
+maxmflatency = 286038 
+averagemflatency = 407 
+max_icnt2mem_latency = 285720 
+max_icnt2sh_latency = 593077 
+
+kernel_launch_uid = 1 
+gpu_sim_cycle = 146597
+gpu_sim_insn = 125960192
+gpu_ipc =     859.2276
+gpu_tot_sim_cycle = 146597
+gpu_tot_sim_insn = 125960192
+gpu_tot_ipc =     859.2276
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 0
+gpu_stall_icnt2sh    = 1822
+gpu_total_sim_rate=540601
+
+Stall:321	W0_Idle:143374	W0_Scoreboard:226597	W1:0	W2:0	W3:0	W4
+
+maxmrqlatency = 64 
+maxdqlatency = 0 
+maxmflatency = 256 
+averagemflatency = 116 
+max_icnt2mem_latency = 38 
+max_icnt2sh_latency = 146596 
+
+kernel_launch_uid = 1 
+gpu_sim_cycle = 18869
+gpu_sim_insn = 12460658
+gpu_ipc =     660.3773
+gpu_tot_sim_cycle = 18869
+gpu_tot_sim_insn = 12460658
+gpu_tot_ipc =     660.3773
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 21036
+gpu_stall_icnt2sh    = 39633
+gpu_total_sim_rate=429677
+
+Stall:40619	W0_Idle:38711	W0_Scoreboard:44666	W1:1617	W2:1706	W
+
+maxmrqlatency = 105 
+maxdqlatency = 0 
+maxmflatency = 1156 
+averagemflatency = 347 
+max_icnt2mem_latency = 1842 
+max_icnt2sh_latency = 18868 
+
+kernel_launch_uid = 2 
+gpu_sim_cycle = 45680
+gpu_sim_insn = 28615818
+gpu_ipc =     626.4409
+gpu_tot_sim_cycle = 64549
+gpu_tot_sim_insn = 41076476
+gpu_tot_ipc =     636.3611
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 36821
+gpu_stall_icnt2sh    = 183891
+gpu_total_sim_rate=366754
+
+Stall:69832	W0_Idle:65198	W0_Scoreboard:273846	W1:2597	W2:3581	
+
+maxmrqlatency = 125 
+maxdqlatency = 0 
+maxmflatency = 1156 
+averagemflatency = 199 
+max_icnt2mem_latency = 1842 
+max_icnt2sh_latency = 64548 
+
+kernel_launch_uid = 3 
+gpu_sim_cycle = 1355564
+gpu_sim_insn = 42160790
+gpu_ipc =      31.1020
+gpu_tot_sim_cycle = 1420113
+gpu_tot_sim_insn = 83237266
+gpu_tot_ipc =      58.6131
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 36821
+gpu_stall_icnt2sh    = 186880
+gpu_total_sim_rate=66964
+
+Stall:72481	W0_Idle:286586	W0_Scoreboard:1921517	W1:42168072	W2
+
+maxmrqlatency = 125 
+maxdqlatency = 0 
+maxmflatency = 1156 
+averagemflatency = 135 
+max_icnt2mem_latency = 1842 
+max_icnt2sh_latency = 1420112 
+
+kernel_launch_uid = 4 
+gpu_sim_cycle = 16999
+gpu_sim_insn = 353024
+gpu_ipc =      20.7673
+gpu_tot_sim_cycle = 1437112
+gpu_tot_sim_insn = 83590290
+gpu_tot_ipc =      58.1655
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 36821
+gpu_stall_icnt2sh    = 189014
+gpu_total_sim_rate=66658
+
+Stall:72827	W0_Idle:340018	W0_Scoreboard:2007812	W1:42521632	W2
+
+maxmrqlatency = 125 
+maxdqlatency = 0 
+maxmflatency = 1156 
+averagemflatency = 134 
+max_icnt2mem_latency = 1842 
+max_icnt2sh_latency = 1437111 
+
+kernel_launch_uid = 1 
+gpu_sim_cycle = 211155
+gpu_sim_insn = 125779968
+gpu_ipc =     595.6760
+gpu_tot_sim_cycle = 211155
+gpu_tot_sim_insn = 125779968
+gpu_tot_ipc =     595.6760
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 103
+gpu_stall_icnt2sh    = 13026
+gpu_total_sim_rate=376586
+
+Stall:78047	W0_Idle:1460993	W0_Scoreboard:901842	W1:0	W2:0	W3:0
+
+maxmrqlatency = 42 
+maxdqlatency = 0 
+maxmflatency = 517 
+averagemflatency = 167 
+max_icnt2mem_latency = 397 
+max_icnt2sh_latency = 211154 
+
+kernel_launch_uid = 1 
+gpu_sim_cycle = 28118
+gpu_sim_insn = 1234342
+gpu_ipc =      43.8986
+gpu_tot_sim_cycle = 28118
+gpu_tot_sim_insn = 1234342
+gpu_tot_ipc =      43.8986
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 0
+gpu_stall_icnt2sh    = 238
+gpu_total_sim_rate=205723
+
+Stall:0	W0_Idle:85278	W0_Scoreboard:37431	W1:2921	W2:1384	W3:18
+
+maxmrqlatency = 42 
+maxdqlatency = 0 
+maxmflatency = 118 
+averagemflatency = 111 
+max_icnt2mem_latency = 32 
+max_icnt2sh_latency = 28117 
+

@@ -1,0 +1,32 @@
+kernel_launch_uid = 1 
+gpu_sim_cycle = 35882
+gpu_sim_insn = 30330112
+gpu_ipc =     845.2737
+gpu_tot_sim_cycle = 35882
+gpu_tot_sim_insn = 30330112
+gpu_tot_ipc =     845.2737
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 4438
+gpu_stall_icnt2sh    = 14801
+gpu_total_sim_rate=399080
+
+Stall:90380 W0_Idle:76995 W0_Scoreboard:37069
+
+maxmrqlatency = 97 
+maxdqlatency = 0 
+maxmflatency = 653 
+averagemflatency = 160 
+max_icnt2mem_latency = 213 
+max_icnt2sh_latency = 35881 
+
+kernel_launch_uid = 2 
+gpu_sim_cycle = 35882
+gpu_sim_insn = 30330112
+gpu_ipc =     845.2737
+gpu_tot_sim_cycle = 35882
+gpu_tot_sim_insn = 30330112
+gpu_tot_ipc =     845.737
+gpu_tot_issued_cta = 0
+gpu_stall_dramfull = 4438
+gpu_stall_icnt2sh    = 14801
+gpu_total_sim_rate=99080
